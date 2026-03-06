@@ -1,9 +1,8 @@
-## Hi 👋, I'm Mohammed Samiullah Khan
+##                        Hi 👋, I'm Mohammed Samiullah Khan
 
 💻 A Passionate Fresher Data Analyst from India 🇮🇳
-🔍 I specialize in transforming data into meaningful insights using Excel, MySQL, Python & Power BI.
-
-<!--
+                       🔍 I specialize in transforming data into meaningful insights using Excel, MySQL, Python & Power BI.
+---
 **samee-khan777/samee-khan777** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
